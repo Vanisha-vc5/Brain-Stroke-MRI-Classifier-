@@ -3,6 +3,12 @@ Builds dataset/final_dataset/ -- a harmonized, patient-grouped, leakage-safe
 dataset combining:
   1. The original Stroke_classification/{Normal,Ischemic,Haemorrhagic} 2D slices
   2. ISLES-2022 (250 real ischemic-stroke patients, NIfTI volumes + lesion masks)
+  3. IXI-2022 (150 real healthy-control patients, Normal only)
+  4. VALDO-2021 Task 2 (real cerebral-microbleed patients, T2* + CMB masks) --
+     added to Haemorrhagic as extra train/val diversity only. Microbleeds are
+     a different (smaller, chronic) lesion type than acute hemorrhagic
+     stroke, so these patients are deliberately excluded from the test
+     split -- see TEST_EXCLUDED_SOURCES / process_valdo().
 
 Why this exists (see conversation history / README_dataset.md for full detail):
   - The original dataset had only ~16 unique patients total (5 Ischemic, 5
@@ -45,13 +51,22 @@ import nibabel as nib
 random.seed(42)
 np.random.seed(42)
 
-ROOT = r"C:\stroke_prediction_jupyter_nb"
+# ROOT is this script's own directory (the Stroke_prediction project root), not a
+# hardcoded machine path -- the original ROOT (C:\stroke_prediction_jupyter_nb) was
+# where this pipeline was first run; that machine's raw source folders don't ship
+# with this repo, only their processed output (dataset/final_dataset/) does. Any
+# source whose raw folder is missing here relies entirely on its cached
+# manifest_*.csv fragment (see _run_cached / the migration step in main()) --
+# it will error out if asked to reprocess from scratch without that raw folder.
+ROOT = os.path.dirname(os.path.abspath(__file__))
 OLD_DATASET = os.path.join(ROOT, "dataset", "Stroke_classification")
 ISLES_DIR = os.path.join(ROOT, "ISLES-2022")
 IXI_DIR = os.path.join(ROOT, "IXI_dataset")
+VALDO_DIR = os.path.join(ROOT, "dataset", "VALDO_Task2", "Task2")
 OUT_DIR = os.path.join(ROOT, "dataset", "final_dataset")
 IMG_SIZE = 256
 ISLES_SLICES_PER_PATIENT = 2  # cap to avoid ISLES dominating via near-duplicates
+VALDO_SLICES_PER_PATIENT = 2  # same reasoning -- cap per-subject near-duplicates
 
 # 150 of 578 IXI patients, stratified proportionally across the 3 hospital
 # sites (319/185/74 in the full set -> ~83/48/19 at n=150). Only Normal
@@ -316,8 +331,89 @@ def process_ixi(manifest_rows):
 
 
 # ------------------------------------------------------------------ #
+# Step 3b: extract capped microbleed slices from VALDO-2021 Task 2
+# (cerebral microbleeds) -- adds real MRI patients with real blood-
+# breakdown signal on a T2*-family sequence to the Haemorrhagic class.
+#
+# IMPORTANT CAVEAT (not fabricated away): a cerebral microbleed is a
+# tiny, chronic, punctate lesion -- visually very different from the
+# large acute hemorrhagic-stroke bleeds elsewhere in the Haemorrhagic
+# class. Checked directly against a few subjects here, some lesions are
+# under 100 voxels total in a 512x512x35 volume. This is added as extra
+# train/val diversity (more real brains, more real blood-sensitive
+# signal), NOT as a claim that it looks like the target pathology.
+# assign_splits() below keeps every VALDO-sourced patient out of the
+# test split for exactly this reason -- test accuracy should still mean
+# "catches real hemorrhagic strokes," not "catches microbleeds."
+#
+# VALDO Task 2 also includes negative (0-microbleed) subjects -- those
+# are skipped here (same as an ISLES subject with an empty mask), since
+# labeling a bleed-free scan "Haemorrhagic" would be a mislabel, not
+# useful negative data.
+# ------------------------------------------------------------------ #
+def process_valdo(manifest_rows):
+    out_dir = os.path.join(OUT_DIR, "Haemorrhagic")
+    os.makedirs(out_dir, exist_ok=True)
+    if not os.path.isdir(VALDO_DIR):
+        print(f"[VALDO] directory not found, skipping: {VALDO_DIR}")
+        return
+    subs = sorted(d for d in os.listdir(VALDO_DIR) if d.startswith("sub-"))
+    print(f"[VALDO] {len(subs)} subjects found")
+    kept, skipped = 0, 0
+
+    for sub in subs:
+        t2s_path = os.path.join(VALDO_DIR, sub, f"{sub}_space-T2S_desc-masked_T2S.nii.gz")
+        mask_path = os.path.join(VALDO_DIR, sub, f"{sub}_space-T2S_CMB.nii.gz")
+        if not (os.path.exists(t2s_path) and os.path.exists(mask_path)):
+            skipped += 1
+            continue
+
+        t2s = nib.load(t2s_path).get_fdata()
+        mask = nib.load(mask_path).get_fdata()
+        lesion_area = mask.sum(axis=(0, 1))
+        lesion_slices = np.where(lesion_area > 0)[0]
+        if len(lesion_slices) == 0:
+            skipped += 1  # negative control -- no microbleeds annotated, not usable here
+            continue
+
+        if len(lesion_slices) >= 2:
+            picks_idx = np.percentile(np.arange(len(lesion_slices)),
+                                       np.linspace(20, 80, VALDO_SLICES_PER_PATIENT)).astype(int)
+            picks = lesion_slices[np.clip(picks_idx, 0, len(lesion_slices) - 1)]
+            picks = sorted(set(picks.tolist()))
+        else:
+            picks = [int(lesion_slices[0])]
+
+        t2s_norm = robust_normalize_volume(t2s)
+        for sl in picks:
+            slice_2d = t2s_norm[:, :, sl]
+            harmonized = harmonize(slice_2d)
+            out_name = f"VALDO_{sub}_slice{sl:03d}.png"
+            out_path = os.path.join(out_dir, out_name)
+            harmonized.save(out_path)
+            manifest_rows.append({
+                "path": os.path.relpath(out_path, ROOT).replace("\\", "/"),
+                "label": CLASS_TO_LABEL["Haemorrhagic"],
+                "mri_class": "Haemorrhagic",
+                "patient_id": f"VALDO_{sub}",
+                "source": "valdo_cmb",
+                "sequence": "T2S",
+            })
+            kept += 1
+
+    print(f"[VALDO] kept {kept} slices from {len(subs) - skipped} usable subjects "
+          f"({skipped} skipped: missing files or no microbleeds annotated)")
+
+
+# ------------------------------------------------------------------ #
 # Step 4: patient-grouped, class-stratified split (no image-level leakage)
 # ------------------------------------------------------------------ #
+# Sources whose patients must never land in the test split -- they're real
+# extra training/validation diversity but not the pathology the reported
+# test metric is meant to measure (see process_valdo()'s docstring-comment).
+TEST_EXCLUDED_SOURCES = {"valdo_cmb"}
+
+
 def assign_splits(df, val_frac=0.15, test_frac=0.15, seed=42):
     """Patient-level split with explicit minimum guarantees, since some
     classes here have only 5-6 total patients -- a plain proportional
@@ -325,27 +421,40 @@ def assign_splits(df, val_frac=0.15, test_frac=0.15, seed=42):
     set entirely for those classes. Rule: with >=2 patients, guarantee >=1
     in test; with >=3 patients, also guarantee >=1 in val; everything else
     goes to train. For classes with many patients (e.g. Ischemic's 252)
-    this reduces to an ordinary ~70/15/15 patient-level split."""
+    this reduces to an ordinary ~70/15/15 patient-level split.
+
+    Patients from TEST_EXCLUDED_SOURCES are never chosen for the test
+    slot -- test_frac is applied to the test-eligible pool, not the full
+    patient count, so adding an excluded-source patient can only grow
+    train/val, never shrink or dilute test. For classes with no excluded
+    patients this is a no-op and reduces exactly to the original formula."""
     rng = random.Random(seed)
     df = df.copy()
     df["split"] = ""
+    patient_source = df.groupby("patient_id")["source"].first()
+
     for cls in df["mri_class"].unique():
         cls_df = df[df["mri_class"] == cls]
         patient_list = list(cls_df["patient_id"].unique())
         rng.shuffle(patient_list)
         n = len(patient_list)
 
-        n_test = max(1, round(n * test_frac)) if n >= 2 else 0
+        test_eligible = [p for p in patient_list if patient_source.get(p) not in TEST_EXCLUDED_SOURCES]
+        n_eligible = len(test_eligible)
+
+        n_test = max(1, round(n_eligible * test_frac)) if n_eligible >= 2 else 0
         n_val = max(1, round(n * val_frac)) if n >= 3 else 0
         while n_test + n_val >= n and (n_test + n_val) > 0:
             if n_val > 0:
                 n_val -= 1
             elif n_test > 0:
                 n_test -= 1
+        n_test = min(n_test, n_eligible)
 
-        test_ids = patient_list[:n_test]
-        val_ids = patient_list[n_test:n_test + n_val]
-        train_ids = patient_list[n_test + n_val:]
+        test_ids = test_eligible[:n_test]
+        remaining = [p for p in patient_list if p not in test_ids]
+        val_ids = remaining[:n_val]
+        train_ids = remaining[n_val:]
 
         if n_test == 0 or n_val == 0:
             print(f"  [!] {cls}: only {n} patient(s) -- "
@@ -382,17 +491,38 @@ def main():
     old_combined = os.path.join(OUT_DIR, "manifest_presplit.csv")
     existing_cache = os.path.join(OUT_DIR, "manifest_existing.csv")
     isles_cache = os.path.join(OUT_DIR, "manifest_isles.csv")
+    ixi_cache = os.path.join(OUT_DIR, "manifest_ixi.csv")
     if os.path.exists(old_combined) and not (os.path.exists(existing_cache) and os.path.exists(isles_cache)):
         combined = pd.read_csv(old_combined)
         combined[combined["source"] == "kaggle_slices"].to_csv(existing_cache, index=False)
         combined[combined["source"] == "isles2022"].to_csv(isles_cache, index=False)
         print(f"Migrated {old_combined} -> {existing_cache}, {isles_cache}")
 
+    # second-chance migration: a checked-out copy of this repo may only ship
+    # the final, already-split manifest.csv (built on a different machine),
+    # without the per-source fragment caches -- reconstruct them from it so
+    # existing/isles/ixi aren't reprocessed from raw source folders that
+    # don't exist here (they'd error out or silently produce 0 rows).
+    final_manifest = os.path.join(OUT_DIR, "manifest.csv")
+    if os.path.exists(final_manifest):
+        full = None
+        for cache_path, source in [(existing_cache, "kaggle_slices"),
+                                    (isles_cache, "isles2022"),
+                                    (ixi_cache, "ixi_normal")]:
+            if not os.path.exists(cache_path):
+                if full is None:
+                    full = pd.read_csv(final_manifest)
+                frag = full[full["source"] == source].drop(columns=["split"], errors="ignore")
+                if len(frag):
+                    frag.to_csv(cache_path, index=False)
+                    print(f"Reconstructed {cache_path} from {final_manifest}")
+
     frag_existing = _run_cached("manifest_existing.csv", process_existing_dataset)
     frag_isles = _run_cached("manifest_isles.csv", process_isles)
     frag_ixi = _run_cached("manifest_ixi.csv", process_ixi)
+    frag_valdo = _run_cached("manifest_valdo.csv", process_valdo)
 
-    df = pd.concat([frag_existing, frag_isles, frag_ixi], ignore_index=True)
+    df = pd.concat([frag_existing, frag_isles, frag_ixi, frag_valdo], ignore_index=True)
     df = assign_splits(df)
 
     manifest_path = os.path.join(OUT_DIR, "manifest.csv")

@@ -1,0 +1,616 @@
+path,label,mri_class,patient_id,source,sequence
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-10.jpg_Normal_211.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-11.jpg_Normal_209.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-12.jpg_Normal_208.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-13.jpg_Normal_207.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-14.jpg_Normal_206.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-15.jpg_Normal_205.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-16.jpg_Normal_204.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-17.jpg_Normal_203.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-18.jpg_Normal_202.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-19.jpg_Normal_201.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-20.jpg_Normal_200.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-5.jpg_Normal_215.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-6.jpg_Normal_214.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-7.jpg_Normal_213.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-8.jpg_Normal_212.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_DWI-9.jpg_Normal_210.png,0,Normal,orig_Bushan Yadav,kaggle_slices,DWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-10.jpg_Normal_223.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-11.jpg_Normal_224.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-12.jpg_Normal_225.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-13.jpg_Normal_226.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-14.jpg_Normal_227.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-15.jpg_Normal_228.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-16.jpg_Normal_229.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-3.jpg_Normal_216.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-4.jpg_Normal_217.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-5.jpg_Normal_218.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-6.jpg_Normal_219.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-7.jpg_Normal_221.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-8.jpg_Normal_220.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_GRE-9.jpg_Normal_222.png,0,Normal,orig_Bushan Yadav,kaggle_slices,GRE
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-10.jpg_Normal_296.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-11.jpg_Normal_295.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-12.jpg_Normal_294.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-13.jpg_Normal_293.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-14.jpg_Normal_292.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-15.jpg_Normal_291.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-16.jpg_Normal_290.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-17.jpg_Normal_289.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-18.jpg_Normal_288.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-19.jpg_Normal_287.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-20.jpg_Normal_286.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-21.jpg_Normal_285.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-22.jpg_Normal_284.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-23.jpg_Normal_283.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-24.jpg_Normal_282.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-25.jpg_Normal_281.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-26.jpg_Normal_280.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-27.jpg_Normal_279.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-28.jpg_Normal_278.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-29.jpg_Normal_277.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-30.jpg_Normal_276.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-31.jpg_Normal_275.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-32.jpg_Normal_274.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-33.jpg_Normal_273.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-34_1_.jpg_Normal_270.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-34_2_.jpg_Normal_271.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-34.jpg_Normal_272.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-35_1_.jpg_Normal_269.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-35_2_.jpg_Normal_267.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-35.jpg_Normal_268.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-36_1_.jpg_Normal_264.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-36_2_.jpg_Normal_265.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-36.jpg_Normal_266.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-37_1_.jpg_Normal_261.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-37_2_.jpg_Normal_263.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-37.jpg_Normal_262.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-38_1_.jpg_Normal_259.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-38_2_.jpg_Normal_258.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-38.jpg_Normal_260.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-39_1_.jpg_Normal_255.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-39_2_.jpg_Normal_256.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-39.jpg_Normal_257.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-4.jpg_Normal_301.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-40.jpg_Normal_254.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-41.jpg_Normal_253.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-42.jpg_Normal_252.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-43.jpg_Normal_251.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-44.jpg_Normal_250.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-45.jpg_Normal_249.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-46.jpg_Normal_248.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-47.jpg_Normal_247.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-48.jpg_Normal_246.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-49.jpg_Normal_245.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-5.jpg_Normal_302.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-50.jpg_Normal_244.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-51.jpg_Normal_243.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-52.jpg_Normal_242.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-53.jpg_Normal_241.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-54.jpg_Normal_240.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-55.jpg_Normal_239.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-56.jpg_Normal_238.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-57.jpg_Normal_237.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-58.jpg_Normal_236.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-59.jpg_Normal_235.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-6.jpg_Normal_300.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-60.jpg_Normal_234.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-61.jpg_Normal_233.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-62.jpg_Normal_232.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-63.jpg_Normal_231.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-64.jpg_Normal_230.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-7.jpg_Normal_299.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-8.jpg_Normal_298.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Bushan_Yadav__Bushan_Yadav_SWI-9.jpg_Normal_297.png,0,Normal,orig_Bushan Yadav,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-10.jpg_Normal_121.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-11.jpg_Normal_122.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-12.jpg_Normal_123.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-13.jpg_Normal_124.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-14.jpg_Normal_125.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-15.jpg_Normal_126.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-16.jpg_Normal_127.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-17.jpg_Normal_128.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-18.jpg_Normal_129.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-19.jpg_Normal_130.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-20.jpg_Normal_131.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-21.jpg_Normal_132.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-22.jpg_Normal_133.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-23.jpg_Normal_134.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-24.jpg_Normal_135.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-6.jpg_Normal_117.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-7.jpg_Normal_118.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-8.jpg_Normal_119.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_DWI-9.jpg_Normal_120.png,0,Normal,orig_Chitra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-10.jpg_Normal_109.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-11.jpg_Normal_110.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-12.jpg_Normal_111.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-13.jpg_Normal_112.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-14.jpg_Normal_113.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-15.jpg_Normal_114.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-16.jpg_Normal_115.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-17.jpg_Normal_116.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-4.jpg_Normal_103.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-5.jpg_Normal_104.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-6.jpg_Normal_105.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-7.jpg_Normal_106.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-8.jpg_Normal_107.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_GRE-9.jpg_Normal_108.png,0,Normal,orig_Chitra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-10.jpg_Normal_194.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-11.jpg_Normal_193.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-12.jpg_Normal_192.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-13.jpg_Normal_191.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-14.jpg_Normal_190.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-15.jpg_Normal_189.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-16.jpg_Normal_188.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-17.jpg_Normal_187.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-18.jpg_Normal_186.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-19.jpg_Normal_185.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-20.jpg_Normal_184.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-21.jpg_Normal_183.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-22.jpg_Normal_182.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-23.jpg_Normal_181.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-24.jpg_Normal_180.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-25.jpg_Normal_179.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-26.jpg_Normal_178.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-27.jpg_Normal_177.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-28.jpg_Normal_176.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-29.jpg_Normal_175.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-30.jpg_Normal_174.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-31.jpg_Normal_173.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-32.jpg_Normal_172.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-33.jpg_Normal_171.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-34.jpg_Normal_170.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-35.jpg_Normal_169.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-36.jpg_Normal_168.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-37.jpg_Normal_167.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-38.jpg_Normal_166.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-39.jpg_Normal_165.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-40.jpg_Normal_164.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-41.jpg_Normal_163.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-42.jpg_Normal_162.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-43.jpg_Normal_161.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-44.jpg_Normal_160.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-45.jpg_Normal_159.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-46.jpg_Normal_158.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-47.jpg_Normal_157.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-48.jpg_Normal_156.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-49.jpg_Normal_155.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-5.jpg_Normal_199.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-50.jpg_Normal_154.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-51.jpg_Normal_153.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-52.jpg_Normal_152.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-53.jpg_Normal_151.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-54.jpg_Normal_150.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-55.jpg_Normal_149.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-56.jpg_Normal_148.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-57.jpg_Normal_147.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-58.jpg_Normal_146.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-59.jpg_Normal_145.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-6.jpg_Normal_198.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-60.jpg_Normal_144.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-61.jpg_Normal_143.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-62.jpg_Normal_142.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-63.jpg_Normal_141.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-64.jpg_Normal_140.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-65.jpg_Normal_139.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-66.jpg_Normal_138.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-67.jpg_Normal_137.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-68.jpg_Normal_136.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-7.jpg_Normal_197.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-8.jpg_Normal_196.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Chitra__Chitra_SWI-9.jpg_Normal_195.png,0,Normal,orig_Chitra,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-10.jpg_Normal_324.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-11.jpg_Normal_325.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-12.jpg_Normal_326.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-13.jpg_Normal_327.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-14.jpg_Normal_328.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-15.jpg_Normal_329.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-16.jpg_Normal_330.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-17.jpg_Normal_331.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-18.jpg_Normal_332.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-19.jpg_Normal_333.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-20.jpg_Normal_334.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-21.jpg_Normal_335.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-22.jpg_Normal_336.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-23.jpg_Normal_337.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-24.jpg_Normal_338.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-5.jpg_Normal_319.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-6.jpg_Normal_320.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-7.jpg_Normal_321.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-8.jpg_Normal_322.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_DWI-9.jpg_Normal_323.png,0,Normal,orig_Karnamoorthi,kaggle_slices,DWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-10.jpg_Normal_311.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-11.jpg_Normal_312.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-12.jpg_Normal_313.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-13.jpg_Normal_314.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-14.jpg_Normal_315.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-15.jpg_Normal_316.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-16.jpg_Normal_317.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-17.jpg_Normal_318.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-2.jpg_Normal_303.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-3.jpg_Normal_304.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-4.jpg_Normal_305.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-5.jpg_Normal_306.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-6.jpg_Normal_307.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-7.jpg_Normal_308.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-8.jpg_Normal_309.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_GRE-9.jpg_Normal_310.png,0,Normal,orig_Karnamoorthi,kaggle_slices,GRE
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-10.jpg_Normal_396.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-11.jpg_Normal_395.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-12.jpg_Normal_394.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-13.jpg_Normal_393.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-14.jpg_Normal_392.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-15.jpg_Normal_391.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-16.jpg_Normal_390.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-17.jpg_Normal_389.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-18.jpg_Normal_388.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-19.jpg_Normal_387.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-20.jpg_Normal_386.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-21.jpg_Normal_385.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-22.jpg_Normal_384.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-23.jpg_Normal_383.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-24.jpg_Normal_382.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-25.jpg_Normal_381.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-26.jpg_Normal_380.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-27.jpg_Normal_379.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-28.jpg_Normal_378.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-29.jpg_Normal_377.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-30.jpg_Normal_376.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-31.jpg_Normal_375.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-32.jpg_Normal_374.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-33.jpg_Normal_373.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-34.jpg_Normal_372.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-35.jpg_Normal_371.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-36.jpg_Normal_370.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-37.jpg_Normal_369.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-38.jpg_Normal_368.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-39.jpg_Normal_367.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-40.jpg_Normal_366.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-41.jpg_Normal_365.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-42.jpg_Normal_364.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-43.jpg_Normal_363.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-44.jpg_Normal_362.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-45.jpg_Normal_361.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-46.jpg_Normal_360.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-47.jpg_Normal_359.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-48.jpg_Normal_358.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-49.jpg_Normal_357.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-50.jpg_Normal_356.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-51.jpg_Normal_355.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-52.jpg_Normal_354.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-53.jpg_Normal_353.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-54.jpg_Normal_352.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-55.jpg_Normal_351.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-56.jpg_Normal_350.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-57.jpg_Normal_349.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-58.jpg_Normal_348.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-59.jpg_Normal_347.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-60.jpg_Normal_346.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-61.jpg_Normal_345.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-62.jpg_Normal_344.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-63.jpg_Normal_343.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-64.jpg_Normal_342.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-65.jpg_Normal_341.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-66.jpg_Normal_340.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-67.jpg_Normal_339.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-7.jpg_Normal_399.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-8.jpg_Normal_398.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Karnamoorthi__Karnamoorthi_SWI-9.jpg_Normal_397.png,0,Normal,orig_Karnamoorthi,kaggle_slices,SWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-10.jpg_Normal_74.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-11.jpg_Normal_75.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-12.jpg_Normal_76.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-13.jpg_Normal_77.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-14.jpg_Normal_78.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-15.jpg_Normal_79.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-16.jpg_Normal_80.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-17.jpg_Normal_81.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-18.jpg_Normal_82.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-19.jpg_Normal_83.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-20.jpg_Normal_84.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-21.jpg_Normal_85.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-22.jpg_Normal_86.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-5.jpg_Normal_69.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-6.jpg_Normal_70.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-7.jpg_Normal_71.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-8.jpg_Normal_72.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_DWI-9.jpg_Normal_73.png,0,Normal,orig_Pavithra,kaggle_slices,DWI
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-10.jpg_Normal_93.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-11.jpg_Normal_94.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-12.jpg_Normal_95.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-13.jpg_Normal_96.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-14.jpg_Normal_97.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-15.jpg_Normal_98.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-16.jpg_Normal_99.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-17.jpg_Normal_100.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-18.jpg_Normal_101.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-19.jpg_Normal_102.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-4.jpg_Normal_87.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-5.jpg_Normal_88.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-6.jpg_Normal_89.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-7.jpg_Normal_90.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-8.jpg_Normal_91.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Pavithra__Pavithra_GRE-9.jpg_Normal_92.png,0,Normal,orig_Pavithra,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-10.jpg_Normal_20.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-11.jpg_Normal_21.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-12.jpg_Normal_22.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-13.jpg_Normal_23.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-14.jpg_Normal_24.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-15.jpg_Normal_25.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-16.jpg_Normal_26.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-17.jpg_Normal_27.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-18.jpg_Normal_28.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-19.jpg_Normal_29.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-20.jpg_Normal_30.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-21.jpg_Normal_31.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-22.jpg_Normal_32.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-23.jpg_Normal_33.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-8.jpg_Normal_18.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_DWI-9.jpg_Normal_19.png,0,Normal,orig_Poornima,kaggle_slices,DWI
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-10.jpg_Normal_8.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-11.jpg_Normal_9.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-12.jpg_Normal_10.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-13.jpg_Normal_11.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-14.jpg_Normal_12.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-15.jpg_Normal_13.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-16.jpg_Normal_14.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-17.jpg_Normal_15.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-18.jpg_Normal_16.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-19.jpg_Normal_17.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-3.jpg_Normal_1.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-4.jpg_Normal_2.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-5.jpg_Normal_3.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-6.jpg_Normal_4.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-7.jpg_Normal_5.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-8.jpg_Normal_6.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Poornima__Poornima_GRE-9.jpg_Normal_7.png,0,Normal,orig_Poornima,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_DWI-10.jpg_Normal_56.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-11.jpg_Normal_57.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-12.jpg_Normal_58.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-13.jpg_Normal_59.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-14.jpg_Normal_60.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-15.jpg_Normal_61.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-16.jpg_Normal_62.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-17.jpg_Normal_63.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-18.jpg_Normal_64.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-19.jpg_Normal_65.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-20.jpg_Normal_66.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-21.jpg_Normal_67.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-22.jpg_Normal_68.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-4.jpg_Normal_50.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-5.jpg_Normal_51.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-6.jpg_Normal_52.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-7.jpg_Normal_53.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-8.jpg_Normal_54.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_DWI-9.jpg_Normal_55.png,0,Normal,orig_Salini,kaggle_slices,DWI
+dataset/final_dataset/Normal/Salini__Salini_GRE-10.jpg_Normal_40.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-11.jpg_Normal_41.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-12.jpg_Normal_42.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-13.jpg_Normal_43.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-14.jpg_Normal_44.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-15.jpg_Normal_45.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-16.jpg_Normal_46.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-17.jpg_Normal_47.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-18.jpg_Normal_48.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-19.jpg_Normal_49.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-4.jpg_Normal_34.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-5.jpg_Normal_35.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-6.jpg_Normal_36.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-7.jpg_Normal_37.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-8.jpg_Normal_38.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Normal/Salini__Salini_GRE-9.jpg_Normal_39.png,0,Normal,orig_Salini,kaggle_slices,GRE
+dataset/final_dataset/Ischemic/Amina__Amina_DWI-16.jpg_Ischemic_21.png,1,Ischemic,orig_Amina,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Amina__Amina_DWI-17.jpg_Ischemic_22.png,1,Ischemic,orig_Amina,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Amina__Amina_DWI-18.jpg_Ischemic_23.png,1,Ischemic,orig_Amina,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Anbazhagan__Anbazhagan_DWI-22.jpg_Ischemic_27.png,1,Ischemic,orig_Anbazhagan,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Anbazhagan__Anbazhagan_DWI-23.jpg_Ischemic_26.png,1,Ischemic,orig_Anbazhagan,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Anbazhagan__Anbazhagan_DWI-24.jpg_Ischemic_24.png,1,Ischemic,orig_Anbazhagan,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Anbazhagan__Anbazhagan_DWI-25.jpg_Ischemic_25.png,1,Ischemic,orig_Anbazhagan,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Anbazhagan__Anbazhagan_T2-11.jpg_Ischemic_28.png,1,Ischemic,orig_Anbazhagan,kaggle_slices,T2
+dataset/final_dataset/Ischemic/Anbazhagan__Anbazhagan_T2-12.jpg_Ischemic_29.png,1,Ischemic,orig_Anbazhagan,kaggle_slices,T2
+dataset/final_dataset/Ischemic/Anbazhagan__Anbazhagan_T2-13.jpg_Ischemic_30.png,1,Ischemic,orig_Anbazhagan,kaggle_slices,T2
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_DWI-16.jpg_Ischemic_1.png,1,Ischemic,orig_Ellappan,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_DWI-17.jpg_Ischemic_2.png,1,Ischemic,orig_Ellappan,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_DWI-18.jpg_Ischemic_3.png,1,Ischemic,orig_Ellappan,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_DWI-19.jpg_Ischemic_4.png,1,Ischemic,orig_Ellappan,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_DWI-20.jpg_Ischemic_5.png,1,Ischemic,orig_Ellappan,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_T2_Flair-11.jpg_Ischemic_6.png,1,Ischemic,orig_Ellappan,kaggle_slices,T2 Flair
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_T2_Flair-12.jpg_Ischemic_7.png,1,Ischemic,orig_Ellappan,kaggle_slices,T2 Flair
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_T2_Flair-13.jpg_Ischemic_8.png,1,Ischemic,orig_Ellappan,kaggle_slices,T2 Flair
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_T2-11.jpg_Ischemic_9.png,1,Ischemic,orig_Ellappan,kaggle_slices,T2
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_T2-12.jpg_Ischemic_10.png,1,Ischemic,orig_Ellappan,kaggle_slices,T2
+dataset/final_dataset/Ischemic/Ellappan__Ellappan_T2-13.jpg_Ischemic_11.png,1,Ischemic,orig_Ellappan,kaggle_slices,T2
+dataset/final_dataset/Ischemic/Gangapushbam__Gangapushbam_DWI-22.jpg_Ischemic_12.png,1,Ischemic,orig_Gangapushbam,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Gangapushbam__Gangapushbam_DWI-23.jpg_Ischemic_13.png,1,Ischemic,orig_Gangapushbam,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Gangapushbam__Gangapushbam_DWI-24.jpg_Ischemic_16.png,1,Ischemic,orig_Gangapushbam,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Gangapushbam__Gangapushbam_DWI-25.jpg_Ischemic_15.png,1,Ischemic,orig_Gangapushbam,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Gangapushbam__Gangapushbam_DWI-26.jpg_Ischemic_14.png,1,Ischemic,orig_Gangapushbam,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Ramachandran__Ramachandran_DWI-19.jpg_Ischemic_20.png,1,Ischemic,orig_Ramachandran,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Ramachandran__Ramachandran_DWI-20.jpg_Ischemic_19.png,1,Ischemic,orig_Ramachandran,kaggle_slices,DWI
+dataset/final_dataset/Ischemic/Ramachandran__Ramachandran_T2_Flair-18.jpg_Ischemic_17.png,1,Ischemic,orig_Ramachandran,kaggle_slices,T2 Flair
+dataset/final_dataset/Ischemic/Ramachandran__Ramachandran_T2_Flair-19.jpg_Ischemic_18.png,1,Ischemic,orig_Ramachandran,kaggle_slices,T2 Flair
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-4.jpg_Haemorrhagic_1.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-5.jpg_Haemorrhagic_2.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-6.jpg_Haemorrhagic_3.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-7.jpg_Haemorrhagic_4.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-8.jpg_Haemorrhagic_5.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-9.jpg_Haemorrhagic_6.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-4.jpg_Haemorrhagic_25.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-5.jpg_Haemorrhagic_26.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-6.jpg_Haemorrhagic_27.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-7.jpg_Haemorrhagic_28.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-8.jpg_Haemorrhagic_29.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-12.jpg_Haemorrhagic_7.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-13.jpg_Haemorrhagic_8.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-14.jpg_Haemorrhagic_9.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-15.jpg_Haemorrhagic_10.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-16.jpg_Haemorrhagic_11.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-17.jpg_Haemorrhagic_12.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-18.jpg_Haemorrhagic_13.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-19.jpg_Haemorrhagic_14.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-20.jpg_Haemorrhagic_15.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-21.jpg_Haemorrhagic_16.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-22.jpg_Haemorrhagic_17.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-23.jpg_Haemorrhagic_18.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-24.jpg_Haemorrhagic_19.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-25.jpg_Haemorrhagic_20.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-26.jpg_Haemorrhagic_21.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-27.jpg_Haemorrhagic_22.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-28.jpg_Haemorrhagic_23.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-29.jpg_Haemorrhagic_24.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-15.jpg_Haemorrhagic_108.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-16.jpg_Haemorrhagic_109.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-17.jpg_Haemorrhagic_110.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-18.jpg_Haemorrhagic_111.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-19.jpg_Haemorrhagic_112.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-20.jpg_Haemorrhagic_113.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-21.jpg_Haemorrhagic_114.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-22.jpg_Haemorrhagic_115.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-11.jpg_Haemorrhagic_101.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-12.jpg_Haemorrhagic_102.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-13.jpg_Haemorrhagic_103.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-14.jpg_Haemorrhagic_104.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-15.jpg_Haemorrhagic_105.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-16.jpg_Haemorrhagic_106.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-17.jpg_Haemorrhagic_107.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-34.jpg_Haemorrhagic_116.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-35.jpg_Haemorrhagic_117.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-36.jpg_Haemorrhagic_118.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-37.jpg_Haemorrhagic_119.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-38.jpg_Haemorrhagic_120.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-39.jpg_Haemorrhagic_121.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-40.jpg_Haemorrhagic_122.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-41.jpg_Haemorrhagic_123.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-42.jpg_Haemorrhagic_124.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-43.jpg_Haemorrhagic_125.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-44.jpg_Haemorrhagic_126.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-45.jpg_Haemorrhagic_127.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-46.jpg_Haemorrhagic_128.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-47.jpg_Haemorrhagic_129.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-48.jpg_Haemorrhagic_130.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-49.jpg_Haemorrhagic_131.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-50.jpg_Haemorrhagic_132.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-51.jpg_Haemorrhagic_133.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-52.jpg_Haemorrhagic_134.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-53.jpg_Haemorrhagic_135.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-54.jpg_Haemorrhagic_136.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-55.jpg_Haemorrhagic_137.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-56.jpg_Haemorrhagic_138.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-57.jpg_Haemorrhagic_139.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-58.jpg_Haemorrhagic_140.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-59.jpg_Haemorrhagic_141.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-60.jpg_Haemorrhagic_142.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-61.jpg_Haemorrhagic_143.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-62.jpg_Haemorrhagic_144.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-63.jpg_Haemorrhagic_145.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-64.jpg_Haemorrhagic_146.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-65.jpg_Haemorrhagic_147.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-66.jpg_Haemorrhagic_148.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-67.jpg_Haemorrhagic_149.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-68.jpg_Haemorrhagic_150.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-10.jpg_Haemorrhagic_156.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-5.jpg_Haemorrhagic_151.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-6.jpg_Haemorrhagic_152.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-7.jpg_Haemorrhagic_153.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-8.jpg_Haemorrhagic_154.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-9.jpg_Haemorrhagic_155.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-3.jpg_Haemorrhagic_182.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-4.jpg_Haemorrhagic_183.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-5.jpg_Haemorrhagic_184.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-6.jpg_Haemorrhagic_185.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-7.jpg_Haemorrhagic_186.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-11.jpg_Haemorrhagic_157.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-12.jpg_Haemorrhagic_158.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-13.jpg_Haemorrhagic_159.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-14.jpg_Haemorrhagic_160.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-15.jpg_Haemorrhagic_161.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-16.jpg_Haemorrhagic_162.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-17.jpg_Haemorrhagic_163.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-18.jpg_Haemorrhagic_164.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-19.jpg_Haemorrhagic_165.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-20.jpg_Haemorrhagic_166.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-21.jpg_Haemorrhagic_167.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-22.jpg_Haemorrhagic_168.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-23.jpg_Haemorrhagic_169.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-24.jpg_Haemorrhagic_170.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-25.jpg_Haemorrhagic_171.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-26.jpg_Haemorrhagic_172.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-27.jpg_Haemorrhagic_173.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-28.jpg_Haemorrhagic_174.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-29.jpg_Haemorrhagic_175.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-30.jpg_Haemorrhagic_176.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-31.jpg_Haemorrhagic_177.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-32.jpg_Haemorrhagic_178.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-33.jpg_Haemorrhagic_179.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-34.jpg_Haemorrhagic_180.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-35.jpg_Haemorrhagic_181.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_DWI-10.jpg_Haemorrhagic_37.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_DWI-11.jpg_Haemorrhagic_38.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_DWI-7.jpg_Haemorrhagic_34.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_DWI-8.jpg_Haemorrhagic_35.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_DWI-9.jpg_Haemorrhagic_36.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_GRE-5.jpg_Haemorrhagic_30.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_GRE-6.jpg_Haemorrhagic_31.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_GRE-7.jpg_Haemorrhagic_32.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_GRE-8.jpg_Haemorrhagic_33.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-10.jpg_Haemorrhagic_43.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-11.jpg_Haemorrhagic_44.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-12.jpg_Haemorrhagic_45.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-13.jpg_Haemorrhagic_46.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-14.jpg_Haemorrhagic_47.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-15.jpg_Haemorrhagic_48.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-16.jpg_Haemorrhagic_49.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-17.jpg_Haemorrhagic_50.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-18.jpg_Haemorrhagic_51.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-19.jpg_Haemorrhagic_52.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-20.jpg_Haemorrhagic_53.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-21.jpg_Haemorrhagic_54.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-22.jpg_Haemorrhagic_55.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-23.jpg_Haemorrhagic_56.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-24.jpg_Haemorrhagic_57.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-25.jpg_Haemorrhagic_58.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-6.jpg_Haemorrhagic_39.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-7.jpg_Haemorrhagic_40.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-8.jpg_Haemorrhagic_41.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_SWI-9.jpg_Haemorrhagic_42.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_DWI-14.jpg_Haemorrhagic_65.png,2,Haemorrhagic,orig_Venda,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_DWI-15.jpg_Haemorrhagic_66.png,2,Haemorrhagic,orig_Venda,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_DWI-16.jpg_Haemorrhagic_67.png,2,Haemorrhagic,orig_Venda,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_DWI-17.jpg_Haemorrhagic_68.png,2,Haemorrhagic,orig_Venda,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_DWI-18.jpg_Haemorrhagic_69.png,2,Haemorrhagic,orig_Venda,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_DWI-19.jpg_Haemorrhagic_70.png,2,Haemorrhagic,orig_Venda,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_DWI-20.jpg_Haemorrhagic_71.png,2,Haemorrhagic,orig_Venda,kaggle_slices,DWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_GRE-10.jpg_Haemorrhagic_60.png,2,Haemorrhagic,orig_Venda,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Venda__Venda_GRE-11.jpg_Haemorrhagic_61.png,2,Haemorrhagic,orig_Venda,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Venda__Venda_GRE-12.jpg_Haemorrhagic_62.png,2,Haemorrhagic,orig_Venda,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Venda__Venda_GRE-13.jpg_Haemorrhagic_63.png,2,Haemorrhagic,orig_Venda,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Venda__Venda_GRE-14.jpg_Haemorrhagic_64.png,2,Haemorrhagic,orig_Venda,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Venda__Venda_GRE-9.jpg_Haemorrhagic_59.png,2,Haemorrhagic,orig_Venda,kaggle_slices,GRE
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-27.jpg_Haemorrhagic_72.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-28.jpg_Haemorrhagic_73.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-29.jpg_Haemorrhagic_74.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-30.jpg_Haemorrhagic_75.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-31.jpg_Haemorrhagic_76.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-32.jpg_Haemorrhagic_77.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-33.jpg_Haemorrhagic_78.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-34.jpg_Haemorrhagic_79.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-35.jpg_Haemorrhagic_80.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-36.jpg_Haemorrhagic_81.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-37.jpg_Haemorrhagic_82.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-38.jpg_Haemorrhagic_83.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-39.jpg_Haemorrhagic_84.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-40.jpg_Haemorrhagic_85.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-41.jpg_Haemorrhagic_86.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-42.jpg_Haemorrhagic_87.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-43.jpg_Haemorrhagic_88.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-44.jpg_Haemorrhagic_89.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-45.jpg_Haemorrhagic_90.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-46.jpg_Haemorrhagic_91.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-47.jpg_Haemorrhagic_92.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-48.jpg_Haemorrhagic_93.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-49.jpg_Haemorrhagic_94.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-50.jpg_Haemorrhagic_95.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-51.jpg_Haemorrhagic_96.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-52.jpg_Haemorrhagic_97.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-53.jpg_Haemorrhagic_98.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-54.jpg_Haemorrhagic_99.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
+dataset/final_dataset/Haemorrhagic/Venda__Venda_SWI-55.jpg_Haemorrhagic_100.png,2,Haemorrhagic,orig_Venda,kaggle_slices,SWI
