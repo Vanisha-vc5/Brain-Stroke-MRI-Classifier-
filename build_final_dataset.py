@@ -5,10 +5,13 @@ dataset combining:
   2. ISLES-2022 (250 real ischemic-stroke patients, NIfTI volumes + lesion masks)
   3. IXI-2022 (150 real healthy-control patients, Normal only)
   4. VALDO-2021 Task 2 (real cerebral-microbleed patients, T2* + CMB masks) --
-     added to Haemorrhagic as extra train/val diversity only. Microbleeds are
-     a different (smaller, chronic) lesion type than acute hemorrhagic
-     stroke, so these patients are deliberately excluded from the test
-     split -- see TEST_EXCLUDED_SOURCES / process_valdo().
+     extracted and cached, but EXCLUDED from the default dataset by
+     INCLUDE_VALDO=False. An ablation run that merged it into Haemorrhagic
+     as train/val-only diversity collapsed that class's test recall from
+     ~0.78 to 0.04 -- see INCLUDE_VALDO's comment above and
+     dataset/final_dataset/_valdo_ablation/ABLATION_NOTES.md for the full
+     negative-result writeup. The extraction code (process_valdo) is kept
+     fully intact and runnable for reproducing that ablation.
 
 Why this exists (see conversation history / README_dataset.md for full detail):
   - The original dataset had only ~16 unique patients total (5 Ischemic, 5
@@ -67,6 +70,20 @@ OUT_DIR = os.path.join(ROOT, "dataset", "final_dataset")
 IMG_SIZE = 256
 ISLES_SLICES_PER_PATIENT = 2  # cap to avoid ISLES dominating via near-duplicates
 VALDO_SLICES_PER_PATIENT = 2  # same reasoning -- cap per-subject near-duplicates
+
+# VALDO is extracted and cached (manifest_valdo.csv) but EXCLUDED from the
+# default dataset -- an evaluation run with it merged into Haemorrhagic
+# showed test recall for that class collapse from ~0.78 to 0.04 (precision
+# 0.50, F1 0.07, n=50), despite VALDO being a minority (31%) of Haemorrhagic
+# training images. Diagnosis: microbleeds (tiny, chronic, punctate) and
+# acute hemorrhagic stroke (large, acute) are visually disjoint pathologies;
+# forcing one decision boundary to cover both degrades recognition of both,
+# rather than simply diluting proportionally to representation -- a class
+# heterogeneity problem, not a class-imbalance one. See
+# dataset/final_dataset/_valdo_ablation/ABLATION_NOTES.md for the full
+# writeup (composition, results, mechanism, suggested paper framing). Set
+# this to True to reproduce that ablation.
+INCLUDE_VALDO = False
 
 # 150 of 578 IXI patients, stratified proportionally across the 3 hospital
 # sites (319/185/74 in the full set -> ~83/48/19 at n=150). Only Normal
@@ -520,9 +537,15 @@ def main():
     frag_existing = _run_cached("manifest_existing.csv", process_existing_dataset)
     frag_isles = _run_cached("manifest_isles.csv", process_isles)
     frag_ixi = _run_cached("manifest_ixi.csv", process_ixi)
-    frag_valdo = _run_cached("manifest_valdo.csv", process_valdo)
 
-    df = pd.concat([frag_existing, frag_isles, frag_ixi, frag_valdo], ignore_index=True)
+    fragments = [frag_existing, frag_isles, frag_ixi]
+    if INCLUDE_VALDO:
+        fragments.append(_run_cached("manifest_valdo.csv", process_valdo))
+    else:
+        print("[VALDO] INCLUDE_VALDO=False -- skipped (see ABLATION_NOTES.md). "
+              "Its cached fragment/images, if present, are left untouched on disk.")
+
+    df = pd.concat(fragments, ignore_index=True)
     df = assign_splits(df)
 
     manifest_path = os.path.join(OUT_DIR, "manifest.csv")

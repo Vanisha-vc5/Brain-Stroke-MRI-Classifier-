@@ -428,121 +428,121 @@ dataset/final_dataset/Ischemic/Ramachandran__Ramachandran_DWI-19.jpg_Ischemic_20
 dataset/final_dataset/Ischemic/Ramachandran__Ramachandran_DWI-20.jpg_Ischemic_19.png,1,Ischemic,orig_Ramachandran,kaggle_slices,DWI,train
 dataset/final_dataset/Ischemic/Ramachandran__Ramachandran_T2_Flair-18.jpg_Ischemic_17.png,1,Ischemic,orig_Ramachandran,kaggle_slices,T2 Flair,train
 dataset/final_dataset/Ischemic/Ramachandran__Ramachandran_T2_Flair-19.jpg_Ischemic_18.png,1,Ischemic,orig_Ramachandran,kaggle_slices,T2 Flair,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-4.jpg_Haemorrhagic_1.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-5.jpg_Haemorrhagic_2.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-6.jpg_Haemorrhagic_3.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-7.jpg_Haemorrhagic_4.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-8.jpg_Haemorrhagic_5.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-9.jpg_Haemorrhagic_6.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-4.jpg_Haemorrhagic_25.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-5.jpg_Haemorrhagic_26.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-6.jpg_Haemorrhagic_27.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-7.jpg_Haemorrhagic_28.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-8.jpg_Haemorrhagic_29.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-12.jpg_Haemorrhagic_7.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-13.jpg_Haemorrhagic_8.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-14.jpg_Haemorrhagic_9.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-15.jpg_Haemorrhagic_10.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-16.jpg_Haemorrhagic_11.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-17.jpg_Haemorrhagic_12.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-18.jpg_Haemorrhagic_13.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-19.jpg_Haemorrhagic_14.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-20.jpg_Haemorrhagic_15.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-21.jpg_Haemorrhagic_16.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-22.jpg_Haemorrhagic_17.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-23.jpg_Haemorrhagic_18.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-24.jpg_Haemorrhagic_19.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-25.jpg_Haemorrhagic_20.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-26.jpg_Haemorrhagic_21.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-27.jpg_Haemorrhagic_22.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-28.jpg_Haemorrhagic_23.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-29.jpg_Haemorrhagic_24.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-15.jpg_Haemorrhagic_108.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-16.jpg_Haemorrhagic_109.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-17.jpg_Haemorrhagic_110.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-18.jpg_Haemorrhagic_111.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-19.jpg_Haemorrhagic_112.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-20.jpg_Haemorrhagic_113.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-21.jpg_Haemorrhagic_114.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-22.jpg_Haemorrhagic_115.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-11.jpg_Haemorrhagic_101.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-12.jpg_Haemorrhagic_102.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-13.jpg_Haemorrhagic_103.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-14.jpg_Haemorrhagic_104.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-15.jpg_Haemorrhagic_105.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-16.jpg_Haemorrhagic_106.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-17.jpg_Haemorrhagic_107.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-34.jpg_Haemorrhagic_116.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-35.jpg_Haemorrhagic_117.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-36.jpg_Haemorrhagic_118.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-37.jpg_Haemorrhagic_119.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-38.jpg_Haemorrhagic_120.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-39.jpg_Haemorrhagic_121.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-40.jpg_Haemorrhagic_122.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-41.jpg_Haemorrhagic_123.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-42.jpg_Haemorrhagic_124.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-43.jpg_Haemorrhagic_125.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-44.jpg_Haemorrhagic_126.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-45.jpg_Haemorrhagic_127.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-46.jpg_Haemorrhagic_128.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-47.jpg_Haemorrhagic_129.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-48.jpg_Haemorrhagic_130.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-49.jpg_Haemorrhagic_131.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-50.jpg_Haemorrhagic_132.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-51.jpg_Haemorrhagic_133.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-52.jpg_Haemorrhagic_134.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-53.jpg_Haemorrhagic_135.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-54.jpg_Haemorrhagic_136.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-55.jpg_Haemorrhagic_137.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-56.jpg_Haemorrhagic_138.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-57.jpg_Haemorrhagic_139.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-58.jpg_Haemorrhagic_140.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-59.jpg_Haemorrhagic_141.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-60.jpg_Haemorrhagic_142.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-61.jpg_Haemorrhagic_143.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-62.jpg_Haemorrhagic_144.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-63.jpg_Haemorrhagic_145.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-64.jpg_Haemorrhagic_146.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-65.jpg_Haemorrhagic_147.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-66.jpg_Haemorrhagic_148.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-67.jpg_Haemorrhagic_149.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-68.jpg_Haemorrhagic_150.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,test
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-10.jpg_Haemorrhagic_156.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-5.jpg_Haemorrhagic_151.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-6.jpg_Haemorrhagic_152.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-7.jpg_Haemorrhagic_153.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-8.jpg_Haemorrhagic_154.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-9.jpg_Haemorrhagic_155.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-3.jpg_Haemorrhagic_182.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-4.jpg_Haemorrhagic_183.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-5.jpg_Haemorrhagic_184.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-6.jpg_Haemorrhagic_185.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-7.jpg_Haemorrhagic_186.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-11.jpg_Haemorrhagic_157.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-12.jpg_Haemorrhagic_158.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-13.jpg_Haemorrhagic_159.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-14.jpg_Haemorrhagic_160.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-15.jpg_Haemorrhagic_161.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-16.jpg_Haemorrhagic_162.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-17.jpg_Haemorrhagic_163.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-18.jpg_Haemorrhagic_164.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-19.jpg_Haemorrhagic_165.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-20.jpg_Haemorrhagic_166.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-21.jpg_Haemorrhagic_167.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-22.jpg_Haemorrhagic_168.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-23.jpg_Haemorrhagic_169.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-24.jpg_Haemorrhagic_170.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-25.jpg_Haemorrhagic_171.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-26.jpg_Haemorrhagic_172.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-27.jpg_Haemorrhagic_173.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-28.jpg_Haemorrhagic_174.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-29.jpg_Haemorrhagic_175.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-30.jpg_Haemorrhagic_176.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-31.jpg_Haemorrhagic_177.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-32.jpg_Haemorrhagic_178.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-33.jpg_Haemorrhagic_179.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-34.jpg_Haemorrhagic_180.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
-dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-35.jpg_Haemorrhagic_181.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-4.jpg_Haemorrhagic_1.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-5.jpg_Haemorrhagic_2.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-6.jpg_Haemorrhagic_3.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-7.jpg_Haemorrhagic_4.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-8.jpg_Haemorrhagic_5.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_DWI-9.jpg_Haemorrhagic_6.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,DWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-4.jpg_Haemorrhagic_25.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-5.jpg_Haemorrhagic_26.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-6.jpg_Haemorrhagic_27.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-7.jpg_Haemorrhagic_28.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_GRE-8.jpg_Haemorrhagic_29.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,GRE,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-12.jpg_Haemorrhagic_7.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-13.jpg_Haemorrhagic_8.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-14.jpg_Haemorrhagic_9.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-15.jpg_Haemorrhagic_10.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-16.jpg_Haemorrhagic_11.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-17.jpg_Haemorrhagic_12.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-18.jpg_Haemorrhagic_13.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-19.jpg_Haemorrhagic_14.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-20.jpg_Haemorrhagic_15.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-21.jpg_Haemorrhagic_16.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-22.jpg_Haemorrhagic_17.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-23.jpg_Haemorrhagic_18.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-24.jpg_Haemorrhagic_19.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-25.jpg_Haemorrhagic_20.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-26.jpg_Haemorrhagic_21.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-27.jpg_Haemorrhagic_22.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-28.jpg_Haemorrhagic_23.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Kuppusamy__Kuppusamy_SWI-29.jpg_Haemorrhagic_24.png,2,Haemorrhagic,orig_Kuppusamy,kaggle_slices,SWI,val
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-15.jpg_Haemorrhagic_108.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-16.jpg_Haemorrhagic_109.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-17.jpg_Haemorrhagic_110.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-18.jpg_Haemorrhagic_111.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-19.jpg_Haemorrhagic_112.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-20.jpg_Haemorrhagic_113.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-21.jpg_Haemorrhagic_114.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_DWI-22.jpg_Haemorrhagic_115.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,DWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-11.jpg_Haemorrhagic_101.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-12.jpg_Haemorrhagic_102.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-13.jpg_Haemorrhagic_103.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-14.jpg_Haemorrhagic_104.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-15.jpg_Haemorrhagic_105.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-16.jpg_Haemorrhagic_106.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_GRE-17.jpg_Haemorrhagic_107.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,GRE,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-34.jpg_Haemorrhagic_116.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-35.jpg_Haemorrhagic_117.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-36.jpg_Haemorrhagic_118.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-37.jpg_Haemorrhagic_119.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-38.jpg_Haemorrhagic_120.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-39.jpg_Haemorrhagic_121.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-40.jpg_Haemorrhagic_122.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-41.jpg_Haemorrhagic_123.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-42.jpg_Haemorrhagic_124.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-43.jpg_Haemorrhagic_125.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-44.jpg_Haemorrhagic_126.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-45.jpg_Haemorrhagic_127.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-46.jpg_Haemorrhagic_128.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-47.jpg_Haemorrhagic_129.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-48.jpg_Haemorrhagic_130.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-49.jpg_Haemorrhagic_131.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-50.jpg_Haemorrhagic_132.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-51.jpg_Haemorrhagic_133.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-52.jpg_Haemorrhagic_134.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-53.jpg_Haemorrhagic_135.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-54.jpg_Haemorrhagic_136.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-55.jpg_Haemorrhagic_137.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-56.jpg_Haemorrhagic_138.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-57.jpg_Haemorrhagic_139.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-58.jpg_Haemorrhagic_140.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-59.jpg_Haemorrhagic_141.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-60.jpg_Haemorrhagic_142.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-61.jpg_Haemorrhagic_143.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-62.jpg_Haemorrhagic_144.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-63.jpg_Haemorrhagic_145.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-64.jpg_Haemorrhagic_146.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-65.jpg_Haemorrhagic_147.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-66.jpg_Haemorrhagic_148.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-67.jpg_Haemorrhagic_149.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Manjula__Manjula_SWI-68.jpg_Haemorrhagic_150.png,2,Haemorrhagic,orig_Manjula,kaggle_slices,SWI,train
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-10.jpg_Haemorrhagic_156.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-5.jpg_Haemorrhagic_151.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-6.jpg_Haemorrhagic_152.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-7.jpg_Haemorrhagic_153.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-8.jpg_Haemorrhagic_154.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_DWI-9.jpg_Haemorrhagic_155.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,DWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-3.jpg_Haemorrhagic_182.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-4.jpg_Haemorrhagic_183.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-5.jpg_Haemorrhagic_184.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-6.jpg_Haemorrhagic_185.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_GRE-7.jpg_Haemorrhagic_186.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,GRE,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-11.jpg_Haemorrhagic_157.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-12.jpg_Haemorrhagic_158.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-13.jpg_Haemorrhagic_159.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-14.jpg_Haemorrhagic_160.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-15.jpg_Haemorrhagic_161.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-16.jpg_Haemorrhagic_162.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-17.jpg_Haemorrhagic_163.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-18.jpg_Haemorrhagic_164.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-19.jpg_Haemorrhagic_165.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-20.jpg_Haemorrhagic_166.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-21.jpg_Haemorrhagic_167.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-22.jpg_Haemorrhagic_168.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-23.jpg_Haemorrhagic_169.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-24.jpg_Haemorrhagic_170.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-25.jpg_Haemorrhagic_171.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-26.jpg_Haemorrhagic_172.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-27.jpg_Haemorrhagic_173.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-28.jpg_Haemorrhagic_174.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-29.jpg_Haemorrhagic_175.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-30.jpg_Haemorrhagic_176.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-31.jpg_Haemorrhagic_177.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-32.jpg_Haemorrhagic_178.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-33.jpg_Haemorrhagic_179.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-34.jpg_Haemorrhagic_180.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
+dataset/final_dataset/Haemorrhagic/Prabhakar_Rao__Prabhakar_Rao_SWI-35.jpg_Haemorrhagic_181.png,2,Haemorrhagic,orig_Prabhakar Rao,kaggle_slices,SWI,test
 dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_DWI-10.jpg_Haemorrhagic_37.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,DWI,train
 dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_DWI-11.jpg_Haemorrhagic_38.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,DWI,train
 dataset/final_dataset/Haemorrhagic/Shamshath__Shamshath_DWI-7.jpg_Haemorrhagic_34.png,2,Haemorrhagic,orig_Shamshath,kaggle_slices,DWI,train
@@ -1552,78 +1552,3 @@ dataset/final_dataset/Normal/IXI475_slice108.png,0,Normal,IXI_IXI475,ixi_normal,
 dataset/final_dataset/Normal/IXI293_slice027.png,0,Normal,IXI_IXI293,ixi_normal,T2,train
 dataset/final_dataset/Normal/IXI293_slice067.png,0,Normal,IXI_IXI293,ixi_normal,T2,train
 dataset/final_dataset/Normal/IXI293_slice108.png,0,Normal,IXI_IXI293,ixi_normal,T2,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-101_slice009.png,2,Haemorrhagic,VALDO_sub-101,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-101_slice016.png,2,Haemorrhagic,VALDO_sub-101,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-102_slice017.png,2,Haemorrhagic,VALDO_sub-102,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-103_slice017.png,2,Haemorrhagic,VALDO_sub-103,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-103_slice020.png,2,Haemorrhagic,VALDO_sub-103,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-106_slice011.png,2,Haemorrhagic,VALDO_sub-106,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-106_slice013.png,2,Haemorrhagic,VALDO_sub-106,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-107_slice013.png,2,Haemorrhagic,VALDO_sub-107,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-108_slice015.png,2,Haemorrhagic,VALDO_sub-108,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-108_slice017.png,2,Haemorrhagic,VALDO_sub-108,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-110_slice019.png,2,Haemorrhagic,VALDO_sub-110,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-110_slice028.png,2,Haemorrhagic,VALDO_sub-110,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-111_slice009.png,2,Haemorrhagic,VALDO_sub-111,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-111_slice019.png,2,Haemorrhagic,VALDO_sub-111,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-207_slice062.png,2,Haemorrhagic,VALDO_sub-207,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-207_slice107.png,2,Haemorrhagic,VALDO_sub-207,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-208_slice111.png,2,Haemorrhagic,VALDO_sub-208,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-208_slice114.png,2,Haemorrhagic,VALDO_sub-208,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-212_slice121.png,2,Haemorrhagic,VALDO_sub-212,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-212_slice122.png,2,Haemorrhagic,VALDO_sub-212,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-213_slice091.png,2,Haemorrhagic,VALDO_sub-213,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-213_slice092.png,2,Haemorrhagic,VALDO_sub-213,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-215_slice092.png,2,Haemorrhagic,VALDO_sub-215,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-215_slice094.png,2,Haemorrhagic,VALDO_sub-215,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-216_slice058.png,2,Haemorrhagic,VALDO_sub-216,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-216_slice113.png,2,Haemorrhagic,VALDO_sub-216,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-217_slice086.png,2,Haemorrhagic,VALDO_sub-217,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-217_slice088.png,2,Haemorrhagic,VALDO_sub-217,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-218_slice081.png,2,Haemorrhagic,VALDO_sub-218,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-218_slice136.png,2,Haemorrhagic,VALDO_sub-218,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-221_slice096.png,2,Haemorrhagic,VALDO_sub-221,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-221_slice137.png,2,Haemorrhagic,VALDO_sub-221,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-222_slice118.png,2,Haemorrhagic,VALDO_sub-222,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-222_slice161.png,2,Haemorrhagic,VALDO_sub-222,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-223_slice027.png,2,Haemorrhagic,VALDO_sub-223,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-223_slice029.png,2,Haemorrhagic,VALDO_sub-223,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-228_slice051.png,2,Haemorrhagic,VALDO_sub-228,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-228_slice105.png,2,Haemorrhagic,VALDO_sub-228,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-229_slice126.png,2,Haemorrhagic,VALDO_sub-229,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-229_slice127.png,2,Haemorrhagic,VALDO_sub-229,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-232_slice108.png,2,Haemorrhagic,VALDO_sub-232,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-232_slice110.png,2,Haemorrhagic,VALDO_sub-232,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-234_slice082.png,2,Haemorrhagic,VALDO_sub-234,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-234_slice100.png,2,Haemorrhagic,VALDO_sub-234,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-301_slice035.png,2,Haemorrhagic,VALDO_sub-301,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-302_slice022.png,2,Haemorrhagic,VALDO_sub-302,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-302_slice023.png,2,Haemorrhagic,VALDO_sub-302,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-303_slice025.png,2,Haemorrhagic,VALDO_sub-303,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-304_slice020.png,2,Haemorrhagic,VALDO_sub-304,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-305_slice003.png,2,Haemorrhagic,VALDO_sub-305,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-305_slice012.png,2,Haemorrhagic,VALDO_sub-305,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-306_slice033.png,2,Haemorrhagic,VALDO_sub-306,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-307_slice020.png,2,Haemorrhagic,VALDO_sub-307,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-308_slice009.png,2,Haemorrhagic,VALDO_sub-308,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-309_slice016.png,2,Haemorrhagic,VALDO_sub-309,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-310_slice031.png,2,Haemorrhagic,VALDO_sub-310,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-311_slice013.png,2,Haemorrhagic,VALDO_sub-311,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-312_slice023.png,2,Haemorrhagic,VALDO_sub-312,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-313_slice009.png,2,Haemorrhagic,VALDO_sub-313,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-314_slice022.png,2,Haemorrhagic,VALDO_sub-314,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-315_slice025.png,2,Haemorrhagic,VALDO_sub-315,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-316_slice015.png,2,Haemorrhagic,VALDO_sub-316,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-317_slice031.png,2,Haemorrhagic,VALDO_sub-317,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-318_slice016.png,2,Haemorrhagic,VALDO_sub-318,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-319_slice002.png,2,Haemorrhagic,VALDO_sub-319,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-320_slice013.png,2,Haemorrhagic,VALDO_sub-320,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-321_slice018.png,2,Haemorrhagic,VALDO_sub-321,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-322_slice023.png,2,Haemorrhagic,VALDO_sub-322,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-322_slice024.png,2,Haemorrhagic,VALDO_sub-322,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-323_slice021.png,2,Haemorrhagic,VALDO_sub-323,valdo_cmb,T2S,val
-dataset/final_dataset/Haemorrhagic/VALDO_sub-324_slice013.png,2,Haemorrhagic,VALDO_sub-324,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-325_slice018.png,2,Haemorrhagic,VALDO_sub-325,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-325_slice025.png,2,Haemorrhagic,VALDO_sub-325,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-326_slice024.png,2,Haemorrhagic,VALDO_sub-326,valdo_cmb,T2S,train
-dataset/final_dataset/Haemorrhagic/VALDO_sub-327_slice020.png,2,Haemorrhagic,VALDO_sub-327,valdo_cmb,T2S,train
