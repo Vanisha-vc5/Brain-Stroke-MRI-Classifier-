@@ -5,3 +5,5 @@ dataset/ISLES-2022/
 dataset/IXI_dataset/
 dataset/Stroke_classification/
 __pycache__/
+models/gallery_embeddings.npz
+*.pyc

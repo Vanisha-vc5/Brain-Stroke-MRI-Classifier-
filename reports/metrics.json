@@ -1,0 +1,33 @@
+{
+  "test_set": {"images": 284, "patients": 62},
+  "overall": {
+    "accuracy": 0.9366,
+    "macro_auc_roc": 0.9855,
+    "macro_f1": 0.8720,
+    "macro_precision": 0.9679,
+    "macro_recall": 0.8333
+  },
+  "per_class": {
+    "Normal": {"precision": 0.904, "recall": 1.0, "f1": 0.949, "support": 169},
+    "Ischemic": {"precision": 1.0, "recall": 1.0, "f1": 1.0, "support": 79},
+    "Haemorrhagic": {"precision": 1.0, "recall": 0.5, "f1": 0.667, "support": 36}
+  },
+  "confusion_matrix": {
+    "labels": ["Normal", "Ischemic", "Haemorrhagic"],
+    "rows_are": "true class",
+    "matrix": [[169, 0, 0], [0, 79, 0], [18, 0, 18]],
+    "note": "Derived from the reported per-class precision and recall and the test-set class counts; these determine the matrix uniquely."
+  },
+  "leakage_study": {
+    "image_level_split": {"accuracy": 0.968, "auc": 0.994},
+    "patient_level_split_original_data": {"accuracy": 0.777, "auc": 0.881},
+    "patient_level_split_final_data": {"accuracy": 0.9366, "auc": 0.9855}
+  },
+  "training": {
+    "stage1": {"epochs": 10, "lr": 0.001, "trainable": "classification head only"},
+    "stage2": {"epochs": 14, "lr": 0.0001, "trainable": "full network"},
+    "optimizer": "Adam",
+    "loss": "CrossEntropyLoss (unweighted)",
+    "sampler": "WeightedRandomSampler (training loader only)"
+  }
+}
